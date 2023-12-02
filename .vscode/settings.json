@@ -1,0 +1,9 @@
+{
+  "files.exclude": {
+    ".ariane": true,
+    ".vscode": true,
+    "**/.gitkeep": true
+  },
+  "git.mergeEditor": false,
+  "liveServer.settings.port": 5501
+}
